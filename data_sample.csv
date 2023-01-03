@@ -1,0 +1,411 @@
+transaction_description,transaction_amount,transaction_account_type,transaction_class,description_cleaned,transaction_type
+ANZ INTERNET BANKING FUNDS TFER TRANSFER 77274****0541,-5000,transaction,transfer,anz internet banking fund transfer transfer 0541,credit
+VISA DEBIT PURCHASE CARD 4067 VV TRADING PTY LTD COHUNA,-6.5,transaction,payment,visa debit purchase card trading pty ltd cohuna,credit
+return 79/12/01 direct debit 374312 elantis pf l 00669999 value date: 48/92/0962,0.15,transaction,refund,return direct debit NUMBERTOKEN elantis NUMBERTOKEN value DATETOKEN,debit
+ATM DEPOSIT HANDYBANK BONDI BEACH 2 23718131 01/01/19,50,transaction,transfer,atm deposit handybank bondi beach NUMBERTOKEN ,debit
+POS W/D EATAT153 MERR-08:34,-10.5,transaction,payment, withdrawal eatat merr TIMETOKEN,credit
+spotlight 101 visa refund receipt 697500 in b/junction date 59 mar 7571 card 183961xxxxxx5252,0.15,transaction,refund,spotlight visa refund RECEIPTTOKEN junction DATETOKEN card NUMBERTOKEN,debit
+TFR from 667539S30.5 Web Tf,5.13,transaction,transfer,transfer NUMBERTOKEN web ,debit
+POS W/D METALAND INVE-15:22,-30.95,transaction,payment, withdrawal metaland inve TIMETOKEN,credit
+Transfer to Joint Account - Receipt 377724 To 082052 621109930 - Transfer to Joint Account - Receipt 377724 To 082052 621109930,-333,transaction,transfer,transfer joint account RECEIPTTOKEN NUMBERTOKEN NUMBERTOKEN transfer joint account RECEIPTTOKEN NUMBERTOKEN NUMBERTOKEN,credit
+TFR to 709926S77.2 MOB To-Everyday Transactions,-100,savings,transfer,transfer NUMBERTOKEN mob everyday transaction,credit
+Transfer from xx6925 CommBank app,2200,transaction,transfer,transfer commbank app,debit
+POS W/D ALDI STORES M-13:29,-36.74,transaction,payment, withdrawal aldi store TIMETOKEN,credit
+INTERNET TRANSFER   Extras              OW J,149.05,savings,transfer,internet transfer extra ,debit
+Internal Transfer - Internal Transfer - Receipt 536917 Savings Maximiser 0085340255,20,transaction,transfer,internal transfer internal transfer RECEIPTTOKEN saving maximiser NUMBERTOKEN,debit
+Transfer from xx9156 NetBank thurs 13 dec,767.03,transaction,transfer,transfer netbank thurs dec,debit
+INTERNET TRANSFER Poppy Lissiman C,-15000,transaction,transfer,internet transfer poppy lissiman ,credit
+DEPOSIT SQUARE AU PTY LT,479.64,transaction,transfer,deposit square pty ,debit
+WINE HAVEN KILLARNEY HEI NS AUS Card xx5513 Value Date: 31/12/2018,-40,transaction,payment,wine killarney hei card value DATETOKEN,credit
+VISA DEBIT PURCHASE CARD 2027 ARTISAN ORNAMNTS PB FOUNTAIN GATE,-34,transaction,payment,visa debit purchase card artisan ornamnts fountain gate,credit
+DEPOSIT ONLINE 2768302 PYMT ALEKSANDER GJORG,875.6,transaction,transfer,deposit online NUMBERTOKEN payment aleksander gjorg,debit
+credit interest redirection redirected from 146036 37317233,0.15,savings,interest,credit interest redirection redirected NUMBERTOKEN NUMBERTOKEN,debit
+Internal Transfer - Internal Transfer - Receipt 848392 Savings Maximiser 0088228898,20,transaction,transfer,internal transfer internal transfer RECEIPTTOKEN saving maximiser NUMBERTOKEN,debit
+Direct Debit 342120 Raiz Investment 6a5639c8b7924c1a49,-30,transaction,transfer,direct debit NUMBERTOKEN raiz investment 6a5639c8b7924c1a49,credit
+DEPOSIT Joshua Taylor        3CarnivalPlace,1777,term-deposit,transfer,deposit joshua taylor 3carnivalplace,debit
+DEBIT CARD PURCHASE GREEN HEART ORGANICS INVERLOCH    AUS,-59.23,transaction,payment,debit card purchase green heart organic inverloch ,credit
+TFR from 667539S1 Web Tf,96,transaction,transfer,transfer NUMBERTOKEN web ,debit
+"Direct Debit 119218 VODAFONE T3,FC8D1,4",-94.99,transaction,transfer,direct debit NUMBERTOKEN vodafone fc8d ,credit
+return apple pty limited sydney ns aus card xx7571 value date: 90/06/2300,0.15,transaction,refund,return apple pty limited sydney card value DATETOKEN,debit
+WITHDRAWAL ONLINE 1645454 PYMT 20190213 c Payroll,-89.33,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment NUMBERTOKEN payroll,credit
+return kmart 6841 point cook au aus card xx1739 value date: 22/08/0269,0.15,transaction,refund,return kmart point cook card value DATETOKEN,debit
+ACCOUNT OVERDRAWN FEE 21-DECEMBER-2018,-15,transaction,bank-fee,account overdrawn fee december 2018,credit
+VISA DEBIT PURCHASE CARD 5046 SALAMANCA FRESH DAVE HOBART,-36.68,transaction,payment,visa debit purchase card salamanca fresh dave hobart,credit
+ATM W/D WESTPACEAGLE -19:43,-580,transaction,cash-withdrawal,atm withdrawal westpaceagle TIMETOKEN,credit
+POS W/D LUSH HAIR AND-15:32,-30,transaction,payment, withdrawal lush hair TIMETOKEN,credit
+bonus cr interest $83.03 less r/w tax $1.77,0.15,savings,interest,bonus interest tax ,debit
+DEPOSIT ONLINE 2953844 TFR Westpac eSaver Alex saving,1272.77,transaction,transfer,deposit online NUMBERTOKEN transfer westpac esaver alex saving,debit
+refund from eftpos 0944172 aldi stores 3588 loganholme 60/64,0.15,transaction,refund,refund eftpos NUMBERTOKEN aldi store loganholme ,debit
+NATIONAL STORAGE       WE ST GOSFORD - EFTPOS Purchase - Receipt 2811Date 19 Sep 2017 Time 10:19AM Card 462263xxxxxx3158,-26,transaction,payment,national storage gosford eftpos purchase RECEIPTTOKEN TIMETOKEN card NUMBERTOKEN,credit
+WITHDRAWAL ONLINE 2825512 BPAY ANZ CARDS,-100,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN bpay anz card,credit
+Transfer to xx7725 CommBank app,-700,transaction,transfer,transfer commbank app,credit
+POS W/D WOOLWORTHS 12-11:17,-231.33,transaction,payment, withdrawal woolworth TIMETOKEN,credit
+VISA DEBIT PURCHASE CARD 3008 WW PETROL 2202 CORNUBIA,-73.33,transaction,payment,visa debit purchase card petrol cornubia,credit
+WITHDRAWAL MOBILE 1510427 TFR Altitude Ca Anna credit card,-50,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN transfer altitude anna credit card,credit
+WITHDRAWAL AT BBLSATM Chevron I 81401719034060 170817,-40,transaction,cash-withdrawal,withdrawal bblsatm chevron NUMBERTOKEN NUMBERTOKEN,credit
+ANZ M-BANKING FUNDS TFER TRANSFER 441168  TO  016358467641821,-100,savings,transfer,anz banking fund transfer transfer NUMBERTOKEN NUMBERTOKEN,credit
+DEBIT CARD PURCHASE UBER   *TRIP PYJHS     SYDNEY       AUS,-47.34,transaction,payment,debit card purchase uber trip pyjhs sydney ,credit
+COLES EXPRESS 2159 - Visa Purchase - Receipt 184795In ELSTERNWICK Date 18 Mar 2018 Card 462263xxxxxx5401,-2.6,transaction,payment,cole express visa purchase RECEIPTTOKEN elsternwick DATETOKEN card NUMBERTOKEN,credit
+Direct Debit 342120 Raiz Maint Fee 5067f67a33d62c272c,-1.25,transaction,transfer,direct debit NUMBERTOKEN raiz maint fee 5067f67a33d62c272c,credit
+VISA DEBIT PURCHASE CARD 5043 BUNNINGS 625000 FRANKSTON,-41.9,transaction,payment,visa debit purchase card bunnings NUMBERTOKEN frankston,credit
+DEBIT CARD PURCHASE MCDONALDS CONDER CONDER       AUS,-30.85,transaction,payment,debit card purchase mcdonalds conder conder ,credit
+WITHDRAWAL MOBILE 1936003 TFR Altitude Ca,-400,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN transfer altitude ,credit
+Everyday round up Everyday round up - Receipt 668979  OE Card xx9344 Transaction $45.85  Transfer to Savings Maximiser ACC 0043687650,-4.15,transaction,transfer,everyday round everyday round RECEIPTTOKEN card transaction transfer saving maximiser acc NUMBERTOKEN,credit
+GO MASTERCARD        CommBank app BPAY 443887 5218933533647235,-50,transaction,payment, mastercard commbank app bpay NUMBERTOKEN NUMBERTOKEN,credit
+IB TFR to 805050  82064 Berkin M  Refund,-1427,savings,transfer, transfer NUMBERTOKEN berkin refund,credit
+TFR to 722001S30 Web Tf To-J L SMITH,-4,transaction,transfer,transfer NUMBERTOKEN web smith,credit
+VISA DEBIT PURCHASE CARD 5000 MCDONALDS LOGAN HYPER LOGANHOLME,-8.9,transaction,payment,visa debit purchase card mcdonalds logan hyper loganholme,credit
+WITHDRAWAL ONLINE 1768854 PYMT Matthew Gi WSB Kym,-20,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment matthew wsb kym,credit
+Transfer to xx0408 NetBank,-4000,savings,transfer,transfer netbank,credit
+netregistry visa refund receipt 036975 in chippendale date 89 apr 4726 card 610085xxxxxx5521,0.15,transaction,refund,netregistry visa refund RECEIPTTOKEN chippendale DATETOKEN card NUMBERTOKEN,debit
+EFTPOS TOWN OF CAMBRIDGE - WE      WEMBLEY DOWN,-60,transaction,payment,eftpos town cambridge wembley,credit
+V7449 07/03 BEST AND LESS            YOUNG      74940529067,-36,transaction,payment, best young NUMBERTOKEN,credit
+VISA DEBIT PURCHASE CARD 5015 NANDOS SPEARWOOD SPEARWOOD,-28.9,transaction,payment,visa debit purchase card nandos spearwood spearwood,credit
+POS W/D COLES 5796 TA-16:42,-16.78,transaction,payment, withdrawal cole TIMETOKEN,credit
+Internal Transfer - Internal Transfer - Receipt 292245 Savings Maximiser 0041444541,50,transaction,transfer,internal transfer internal transfer RECEIPTTOKEN saving maximiser NUMBERTOKEN,debit
+COLES 0677 VERMONT SOU AUS,-129.08,credit-card,payment,cole vermont sou ,credit
+POS W/D COLES EXPRESS-19:46,-9,transaction,payment, withdrawal cole express TIMETOKEN,credit
+comp int 58232 0.06%,0.15,savings,interest,comp int ,debit
+DEPOSIT ONLINE 2494320 TFR Westpac Business Cas,10000,transaction,transfer,deposit online NUMBERTOKEN transfer westpac business ,debit
+V7449 07/03 THE BASE WAREHOUSE       YOUNG      04151729397,-5.5,transaction,payment, base warehouse young NUMBERTOKEN,credit
+"credit interest earned on this account to june 66, 5196 is $2.20",0.15,savings,interest,credit interest earned account june ,debit
+DEBIT CARD PURCHASE PADDINGTON CHIRO CNTR PADDINGTON   AUS,-26,transaction,payment,debit card purchase paddington chiro cntr paddington ,credit
+International Transaction Fee - Receipt 183701,-1.32,transaction,bank-fee,international transaction fee RECEIPTTOKEN,credit
+DEBIT CARD PURCHASE DR SMOOTHIE AUSTRALIA ALEXANDRIA   AUS Card No. ~024808,-202,transaction,payment,debit card purchase smoothie australia alexandria card NUMBERTOKEN,credit
+COMMUNITY ENTERPRISE Q   LOCKHART RIVEAU Cash Out $20.00 Purchase $8.62,-28.62,transaction,payment,community enterprise lockhart riveau cash purchase ,credit
+ANZ INTERNET BANKING FUNDS TFER TRANSFER 894477  FROM       457199179,150,transaction,transfer,anz internet banking fund transfer transfer NUMBERTOKEN NUMBERTOKEN,debit
+ANZ M-BANKING FUNDS TFER TRANSFER 364389  TO  013230465829994,-307,transaction,transfer,anz banking fund transfer transfer NUMBERTOKEN NUMBERTOKEN,credit
+AAMI Visa Purchase - Receipt 107717,-1,credit-card,payment,aami visa purchase RECEIPTTOKEN,credit
+WITHDRAWAL ONLINE 1074766 PYMT Rossiters fruit/veg,-175.87,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment rossiters fruit veg,credit
+return nike bondi juncti bondi junctio ns aus tap and pay xx1718 value date: 66/06/8013,0.15,transaction,refund,return nike bondi juncti bondi junctio tap pay value DATETOKEN,debit
+Internal Transfer - Internal Transfer - Receipt 612460 Savings Maximiser 0043677629,1.67,transaction,transfer,internal transfer internal transfer RECEIPTTOKEN saving maximiser NUMBERTOKEN,debit
+Direct Credit 065536 E308888Txn169608 308888*RP F/N REIM,346.54,transaction,transfer,direct credit NUMBERTOKEN eNUMBERTOKEN NUMBERTOKEN reim,debit
+interest paid includes bonus of $2.23,0.15,savings,interest,interest paid includes bonus ,debit
+WITHDRAWAL ONLINE 1287057 TFR Westpac Cho,-300,savings,cash-withdrawal,withdrawal online NUMBERTOKEN transfer westpac cho,credit
+PAYMENT BY AUTHORITY TO SuperChoice P/L PC290518-116825841,-22027.74,transaction,transfer,payment authority superchoice pcNUMBERTOKEN NUMBERTOKEN,credit
+POS W/D WOOLWORTHS 13-13:17,-8,transaction,payment, withdrawal woolworth TIMETOKEN,credit
+POS W/D WOOLWORTHS 16-20:01,-5.5,transaction,payment, withdrawal woolworth TIMETOKEN,credit
+return crown towers perth burswood au card xx9057,0.15,transaction,refund,return crown tower perth burswood card xx9057,debit
+DEBIT CARD PURCHASE WW PETROL       2252 FOREST LAKQL AUS Card No. ~589544,-88.43,transaction,payment,debit card purchase petrol forest lakql card NUMBERTOKEN,credit
+EFTPOS BWS LIQUOR      1894\JANNALI NSW      AU,-20,transaction,payment,eftpos liquor jannali nsw ,credit
+IPY*JETSTAR MENU AFS Broadbeach QL AUS Card xx2493 Value Date: 02/03/2019,-4,transaction,payment,ipy jetstar menu afs broadbeach card value DATETOKEN,credit
+bonus interest credit receipt 227927,0.15,savings,interest,bonus interest credit RECEIPTTOKEN,debit
+VISA DEBIT PURCHASE CARD 3046 BUNNINGS 381000 HOPPERS CROSS,-30.5,transaction,payment,visa debit purchase card bunnings NUMBERTOKEN hopper cross,credit
+Transfer from xx5693 CommBank app,13.79,transaction,transfer,transfer commbank app,debit
+ATM W/D NP-Caltex Ura-10:48,-70,transaction,cash-withdrawal,atm withdrawal caltex ura TIMETOKEN,credit
+debit card refund bunnings 089553 innaloo aus card no. ~244450,0.15,transaction,refund,debit card refund bunnings NUMBERTOKEN innaloo card NUMBERTOKEN,debit
+The Squires Fortune - Visa Purchase - Receipt 160326In Scarborough Date 29 Dec 2017 Card 462263xxxxxx4052,-55,transaction,payment,squire fortune visa purchase RECEIPTTOKEN scarborough DATETOKEN card NUMBERTOKEN,credit
+DEBIT CARD PURCHASE THE AMBASSADOR REDCLIFFE    AUS Card No. ~850581,-67.75,transaction,payment,debit card purchase ambassador redcliffe card NUMBERTOKEN,credit
+WITHDRAWAL ONLINE 0598057 BPAY ANZ CARDS,-300,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN bpay anz card,credit
+Internal Transfer - Internal Transfer - Receipt 41844 Savings Maximiser 0085944097,-174.61,transaction,transfer,internal transfer internal transfer RECEIPTTOKEN saving maximiser NUMBERTOKEN,credit
+ATM W/D MOOLOOLABA 47-10:24,-20,transaction,cash-withdrawal,atm withdrawal mooloolaba TIMETOKEN,credit
+COLES EXPRESS 1909 PALMERSTON AUS,-3.7,credit-card,payment,cole express palmerston ,credit
+Salary - Salary Deposit - Receipt 102421TITAN INTERACTIV TITAN SALARY ,8104.78,transaction,transfer,salary salary deposit RECEIPTTOKEN interactiv titan salary,debit
+TFR to 639321S1 MOB To-A C WALSH,-8.52,savings,transfer,transfer NUMBERTOKEN mob walsh,credit
+MARIMARI P/L BROADBEACH AU,-42.4,credit-card,payment,marimari broadbeach ,credit
+VISA DEBIT PURCHASE CARD 1076 DORSET GARDENS HOTEL CROYDON,-9,transaction,payment,visa debit purchase card dorset garden hotel croydon,credit
+base cr interest $0.03 less r/w tax $9.01,0.15,savings,interest,base interest tax ,debit
+INTERNET TRANSFER   Bibi life           ROWSTH*JELLE,-200,savings,transfer,internet transfer bibi life rowsth jelle,credit
+WITHDRAWAL MOBILE 1018522 TFR Westpac Cho,-100,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN transfer westpac cho,credit
+WITHDRAWAL AT HANDYBANK EMERTON O/S 17326030 23/01/18,-360,transaction,cash-withdrawal,withdrawal handybank emerton NUMBERTOKEN ,credit
+WITHDRAWAL MOBILE 8396915 BPAY OPTUS BILL,-79.99,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN bpay optus bill,credit
+Direct Credit 507141 STRIPE STRIPE_DkHwtF4FRGE,92.45,savings,transfer,direct credit NUMBERTOKEN stripe stripe dkhwtf4frge,debit
+return no account or incorrect account no zac speth xiao wen chen value date: 11/96/6139,0.15,transaction,refund,return account incorrect account zac speth xiao wen chen value DATETOKEN,debit
+ANZ M-BANKING FUNDS TFER TRANSFER 241036  FROM       903929558,50,transaction,transfer,anz banking fund transfer transfer NUMBERTOKEN NUMBERTOKEN,debit
+VISA DEBIT PURCHASE CARD 4085 RETAIL JUICE BARS PTY NORTH RYDE,-7.5,transaction,payment,visa debit purchase card retail juice bar pty north ryde,credit
+DEPOSIT ONLINE 2712196 PYMT ALEKSANDER GJORG SBC WAGES,391,transaction,transfer,deposit online NUMBERTOKEN payment aleksander gjorg sbc wage,debit
+ARIRANG ALLENDALE PT PERTH AUS,-7,credit-card,payment,arirang allendale perth ,credit
+DEBIT CARD PURCHASE NATECOM PTY LTD COOROY       AUS Card No. ~589544,-4.5,transaction,payment,debit card purchase natecom pty ltd cooroy card NUMBERTOKEN,credit
+return 85/35/72 direct debit 313759 bill buddy 4800158583d value date: 00/15/7577,0.15,transaction,refund,return direct debit NUMBERTOKEN bill buddy NUMBERTOKENd value DATETOKEN,debit
+Direct Credit 301500 Avalon Beach SLS Avalon Beach SLSC,100,transaction,transfer,direct credit NUMBERTOKEN avalon beach avalon beach slsc,debit
+ANZ INTERNET BANKING FUNDS TFER TRANSFER 813906 TO             LIZ WHITT,-633.87,transaction,transfer,anz internet banking fund transfer transfer NUMBERTOKEN liz whitt,credit
+TFR from 639321S3 MOB,87,savings,transfer,transfer NUMBERTOKEN mob,debit
+DEBIT CARD PURCHASE SPICES SUPERMARKET NEDLANDS     AUS,-32.5,transaction,payment,debit card purchase spice supermarket nedlands ,credit
+TFR to 714182S1.1 MOB To-L CURRY TAX/SUPER,-350,transaction,transfer,transfer NUMBERTOKEN mob curry tax super,credit
+V8065 21/02 KIMSAKAT                 EASTWOOD   74564729053,-58,transaction,payment, kimsakat eastwood NUMBERTOKEN,credit
+OE Card xx0985 Transaction $6.50 - Receipt 757726 From Orange Everyday  0035344577,3.5,savings,transfer, card transaction RECEIPTTOKEN orange everyday NUMBERTOKEN,debit
+Direct Debit 342120 Raiz Investment a3f5d6ccfd88542189,-171.92,transaction,transfer,direct debit NUMBERTOKEN raiz investment a3f5d6ccfdNUMBERTOKEN,credit
+Melbourne Airport Melbourne Air VI AUS Card xx5216 Value Date: 25/11/2018,-51.51,transaction,payment,melbourne airport melbourne air card value DATETOKEN,credit
+return coles 6666 bondi jct au aus card xx8449 value date: 98/92/7139,0.15,transaction,refund,return cole bondi jct card value DATETOKEN,debit
+DEBIT CARD PURCHASE Belles Hot Chicken Fitzroy      AUS,-42,transaction,payment,debit card purchase belle hot chicken fitzroy ,credit
+TFR to 749967S30 MOB To-C R Whittaker Goodwin,-540,transaction,transfer,transfer NUMBERTOKEN mob whittaker goodwin,credit
+WITHDRAWAL ONLINE 1536945 PYMT Anna Gilha Living Anna,-150,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment anna gilha living anna,credit
+WITHDRAWAL AT CBA ATM HAMILTON QLD 414594 052652 230918,-300,transaction,cash-withdrawal,withdrawal cba atm hamilton qld NUMBERTOKEN NUMBERTOKEN NUMBERTOKEN,credit
+adobe il creative cld visa refund receipt 577727 in adobe.com date 83 aug 5190 card 486826xxxxxx0373,0.15,transaction,refund,adobe creative cld visa refund RECEIPTTOKEN adobe com DATETOKEN card NUMBERTOKEN,debit
+DEBIT CARD PURCHASE UBER EATS 3V2NY HELP.U 14518236738  AUS,-33,transaction,payment,debit card purchase uber eats 3v2ny help NUMBERTOKEN ,credit
+return 48/57/4****126645/6770,0.15,transaction,refund,return NUMBERTOKEN 6770,debit
+V4525 18/08 COLES 4567 WHITE ROCK 74363968230,-5,transaction,payment, cole white rock NUMBERTOKEN,credit
+Transfer to xx3323 CommBank app,-120,savings,transfer,transfer commbank app,credit
+Direct Debit 279234 PAYPAL AUSTRALIA 1004213336724,-49.99,transaction,transfer,direct debit NUMBERTOKEN paypal australia NUMBERTOKEN,credit
+MCDONALDS BELDON - Visa Purchase - Receipt 120456In BELDON Date 04 Mar 2019 Card 462263xxxxxx2366,-15.95,transaction,payment,mcdonalds beldon visa purchase RECEIPTTOKEN beldon DATETOKEN card NUMBERTOKEN,credit
+POS W/D ASHCROFTS IGA-18:13,-24.61,transaction,payment, withdrawal ashcrofts iga TIMETOKEN,credit
+ANZ INTERNET BANKING BPAY MORNINGTON PEN SHI            {360285},-386.7,savings,payment,anz internet banking bpay mornington pen shi NUMBERTOKEN,credit
+ATM Owner Charge -10:00,-2.5,transaction,bank-fee,atm owner charge TIMETOKEN,credit
+Transfer to xx5408 CommBank app,-207,savings,transfer,transfer commbank app,credit
+VISA DEBIT PURCHASE CARD 3024 POCA PTY LTD PARK RIDGE,-21.75,transaction,payment,visa debit purchase card poca pty ltd park ridge,credit
+V2541 21/11 THE BAY SEAFOOD MARKET BYRON BAY 74199748326,-52.9,transaction,payment, bay seafood market byron bay NUMBERTOKEN,credit
+bonus cr interest $2.17,0.15,savings,interest,bonus interest ,debit
+POS W/D THE REJECT SH-11:30,-47.5,transaction,payment, withdrawal reject TIMETOKEN,credit
+TFR from 657730S3 MOB,34.79,transaction,transfer,transfer NUMBERTOKEN mob,debit
+comp int 98264 5.03%,0.15,savings,interest,comp int ,debit
+Solo Espresso 13 ************ 9986,-11,transaction,payment,solo espresso 9986,credit
+INTERNET TRANSFER SALARIES AND WAGES,-110.2,transaction,transfer,internet transfer salary wage,credit
+debit card refund paypal *woolworthsl 7586608904 aus,0.15,transaction,refund,debit card refund paypal woolworthsl NUMBERTOKEN ,debit
+VISA DEBIT PURCHASE CARD 0088 ARMOUR TIMBER AND HARD SMITHTON,-147.12,transaction,payment,visa debit purchase card armour timber hard smithton,credit
+interest paid includes bonus of $9.91,0.15,savings,interest,interest paid includes bonus ,debit
+credit interest redirection redirected from 427473 19529367,0.15,savings,interest,credit interest redirection redirected NUMBERTOKEN NUMBERTOKEN,debit
+afterpay pty ltd visa refund receipt 459245 in melbourne date 45 jan 5519 card 475112xxxxxx2973,0.15,transaction,refund,afterpay pty ltd visa refund RECEIPTTOKEN melbourne DATETOKEN card NUMBERTOKEN,debit
+WITHDRAWAL MOBILE 1662393 PYMT Marsdon Ca,-50,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN payment marsdon ,credit
+INTERNET BPAY LUMO ENERGY AUST 261925638,-2690.84,transaction,payment,internet bpay lumo energy aust NUMBERTOKEN,credit
+Foreign Currency Fee ************ 9986 USD 12.99,-1,credit-card,bank-fee,foreign currency fee usd ,credit
+gross cr interest $9.95 less r/w tax $4.78,0.15,savings,interest,gross interest tax ,debit
+Transfer from xx6720 CommBank app,100,transaction,transfer,transfer commbank app,debit
+P & G FRIENDLY GROCE HEBERSHAM  AUS Card xx9433 Value Date: 26/07/2018,-2.27,transaction,payment, friendly groce hebersham card value DATETOKEN,credit
+WOOLWORTHS 1055 Visa Purchase - Receipt 172672 In POTTS POINT Date 06 Oct 2018 Card xxxxxxxxxxxx0985,-6,transaction,payment,woolworth visa purchase RECEIPTTOKEN potts point DATETOKEN card xxxxxxxxxxxx0985,credit
+Shanon 20 Percent - Receipt 369675 From Orange Everyday  0062704732,300,savings,transfer,shanon percent RECEIPTTOKEN orange everyday NUMBERTOKEN,debit
+bonus cr interest $90.04 less r/w tax $7.93,0.15,savings,interest,bonus interest tax ,debit
+POS W/D MCDONALDS GRE-17:23,-5.55,transaction,payment, withdrawal mcdonalds gre TIMETOKEN,credit
+WITHDRAWAL ONLINE 5748409 BPAY MYOB PAY S Mugs - shop,-668.8,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN bpay myob pay mug shop,credit
+DEBIT CARD PURCHASE Toyworld Mackay Mackay       AUS,-22.97,transaction,payment,debit card purchase toyworld mackay mackay ,credit
+base cr interest $0.85,0.15,savings,interest,base interest ,debit
+International Transaction Fee Value Date: 29/11/2017,-0.12,transaction,bank-fee,international transaction fee value DATETOKEN,credit
+INTERNET TRANSFER   Linked Acc Trns     RIGBY M,-60,savings,transfer,internet transfer linked acc trns rigby,credit
+WITHDRAWAL MOBILE 1183918 TAX ATO Tax - P Bas,-8708.95,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN tax ato tax ,credit
+Everyday round up Everyday round up - Receipt 176473  OE Card xx9344 Transaction $118.00  Transfer to Savings Maximiser ACC 0043687650,-2,transaction,transfer,everyday round everyday round RECEIPTTOKEN card transaction transfer saving maximiser acc NUMBERTOKEN,credit
+CALTEX STAR MART COO - Visa Purchase - Receipt 110502In COOMERA Date 17 Aug 2017 Card 462263xxxxxx1033,-6,transaction,payment,caltex star mart coo visa purchase RECEIPTTOKEN coomera DATETOKEN card NUMBERTOKEN,credit
+To pay HSBC card - Internal Transfer - Receipt 385018 Savings Maximiser 0040893802,127,transaction,transfer,pay hsbc card internal transfer RECEIPTTOKEN saving maximiser NUMBERTOKEN,debit
+V6302 31/03 THE NEWPORT HOTEL FREMANTLE 74564458093,-20.4,transaction,payment, newport hotel fremantle NUMBERTOKEN,credit
+Transfer from xx2412 CommBank app,57,transaction,transfer,transfer commbank app,debit
+DEPOSIT ONLINE 2548451 TFR Westpac eSaver,40,transaction,transfer,deposit online NUMBERTOKEN transfer westpac esaver,debit
+comp int 97314 2.2%,0.15,savings,interest,comp int ,debit
+V8169 15/11 MCDONALDS CALOUNDRA CALOUNDRA 74564728320,-19.1,transaction,payment, mcdonalds caloundra caloundra NUMBERTOKEN,credit
+DEBIT CARD PURCHASE BANANA BOYS MITCHAM TORRENS PARK AUS,-42,transaction,payment,debit card purchase banana boy mitcham torrens park ,credit
+WITHDRAWAL MOBILE 1717323 TFR Westpac Bus Trans,-80,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN transfer westpac bus trans,credit
+To linked account xx0689 - Internal transfer,-84.2,savings,transfer,linked account internal transfer,credit
+VISA PURCHASE COLES EXPRESS 6738       5307,-38.17,savings,payment,visa purchase cole express 5307,credit
+DEPOSIT ONLINE 2976291 PYMT JEFFREY REID,1200,transaction,transfer,deposit online NUMBERTOKEN payment jeffrey reid,debit
+TFR from 667539S1 Web Tf Ref-LNE,165.96,credit-card,transfer,transfer NUMBERTOKEN web ref lne,debit
+VISA DEBIT PURCHASE CARD 6024 INDOOROOPILLY FRUIT INDOOROOPILLY,-26.52,transaction,payment,visa debit purchase card indooroopilly fruit indooroopilly,credit
+WITHDRAWAL AT HANDYBANK BIGGRA WTR O/S 13526121 28/02/19,-380,transaction,cash-withdrawal,withdrawal handybank biggra wtr NUMBERTOKEN ,credit
+Transfer to xx3273 CommBank app Credit card,-250,transaction,transfer,transfer commbank app credit card,credit
+BIG W           0237 BROOKSIDE Q AU,-71.29,credit-card,payment,big brookside ,credit
+OPORTO HEATHWOOD QLD - Visa Purchase - Receipt 14****6226x1033,-13.5,transaction,payment,oporto heathwood qld visa purchase receipt 6226x1033,credit
+Transfer from xx9229 CommBank app,50,transaction,transfer,transfer commbank app,debit
+POS W/D ROYAL HOTEL I-17:54,-22,transaction,payment, withdrawal royal hotel TIMETOKEN,credit
+Everyday round up Everyday round up - Receipt 94008  OE Card xx0985 Transaction $7.00  Transfer to Savings Maximiser ACC 0042196968,-3,transaction,transfer,everyday round everyday round RECEIPTTOKEN card transaction transfer saving maximiser acc NUMBERTOKEN,credit
+base cr interest $3.04 less r/w tax $8.64,0.15,savings,interest,base interest tax ,debit
+Purchase at FARMER HUNTING LODGE - USD 38.00,-52.59,transaction,payment,purchase farmer hunting lodge usd ,credit
+gross int 58.83 tax 98.57% 64.11 net interest,0.15,savings,interest,gross int tax net interest,debit
+interest paid includes bonus of $1.97,0.15,savings,interest,interest paid includes bonus ,debit
+DEBIT CARD PURCHASE I SCREAM GELATO PTY CRONULLA     AUS,-15,transaction,payment,debit card purchase scream gelato pty cronulla ,credit
+TFR to 719087S16 MOB To-G J L CURRY,-44,transaction,transfer,transfer NUMBERTOKEN mob curry,credit
+IB TRANSFER 401654958 TO 303-092-6910187 11:56AM,-6,savings,transfer, transfer NUMBERTOKEN NUMBERTOKEN TIMETOKEN,credit
+DEBIT CARD PURCHASE COLES 4419 NORTH MACKAY AUS Card No. ~981917,-63.94,transaction,payment,debit card purchase cole north mackay card NUMBERTOKEN,credit
+DEBIT CARD PURCHASE NIGHTOWL FERNBROOK REDBANK PLAI AUS,-14,transaction,payment,debit card purchase nightowl fernbrook redbank plai ,credit
+POS W/D COLES 8760 AR-20:55,-6.75,transaction,payment, withdrawal cole TIMETOKEN,credit
+WITHDRAWAL ONLINE 1594660 PYMT Emma Slade ES wages we 4 June,-45.25,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment emma slade wage june,credit
+DEBIT CARD PURCHASE COLES EXPRESS 1840 HASTINGS PT  AUS Card No. ~948411,-55.02,transaction,payment,debit card purchase cole express hastings card NUMBERTOKEN,credit
+Direct Credit 320035 Abercromby's Ren CLA12U1616,1536.53,transaction,transfer,direct credit NUMBERTOKEN abercromby ren cla12u1616,debit
+WBC ATM 24th21:27 SOCIAL CLB 2,-200,transaction,cash-withdrawal,wbc atm 24thTIMETOKEN social clb ,credit
+DEPOSIT ONLINE 2148606 TFR Basic Account,0.15,savings,transfer,deposit online NUMBERTOKEN transfer basic account,debit
+TFR to 738160S3 Web Tf To-M A Gleeson-Marlow,-1800,transaction,transfer,transfer NUMBERTOKEN web gleeson marlow,credit
+Direct Credit 166111 Tyro Settlement 25 Feb,939,transaction,transfer,direct credit NUMBERTOKEN tyro settlement feb,debit
+WITHDRAWAL ONLINE 1414190 PYMT MEK Consul MEK,-321.76,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment mek consul mek,credit
+TFR TO 710918S77,-163.94,mortgage,transfer,transfer NUMBERTOKEN,credit
+TFR to 626150S1 MOB To-G J DELL Ref-Grant Grant,-50,transaction,transfer,transfer NUMBERTOKEN mob dell ref grant grant,credit
+return 44/37/87 direct debit 187195 money3 450365206885 value date: 53/91/7300,0.15,transaction,refund,return direct debit NUMBERTOKEN money NUMBERTOKEN value DATETOKEN,debit
+Transfer from xx7296 NetBank,3000,savings,transfer,transfer netbank,debit
+TOYOSU PTY LTD MELBOURNE VI AUS Card xx4425 Value Date: 11/01/2019,-40,transaction,payment,toyosu pty ltd melbourne card value DATETOKEN,credit
+"credit interest earned on this account to june 50, 4049 is $8.77",0.15,savings,interest,credit interest earned account june ,debit
+woolworths 8713 visa refund receipt 788038 in karrinyup date 82 nov 4241 card 333864xxxxxx1700,0.15,transaction,refund,woolworth visa refund RECEIPTTOKEN karrinyup DATETOKEN card NUMBERTOKEN,debit
+V3332 09/11 WOOLWORTHS 2589 BUDERIM 05193816860,-37.9,transaction,payment, woolworth buderim NUMBERTOKEN,credit
+WITHDRAWAL ONLINE 1968732 PYMT JDD Wealth JDD,-4800,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment jdd wealth jdd,credit
+DEBIT CARD PURCHASE Little Bonny's Menai        AUS,-16.24,transaction,payment,debit card purchase little bonny menai ,credit
+V2541 08/02 SPAR SUFFOLK PARK SUFFOLK PA 05211527684,-65.23,transaction,payment, spar suffolk park suffolk NUMBERTOKEN,credit
+PAYMENT BY AUTHORITY TO ING 083042239  0814477,-20,transaction,transfer,payment authority ing NUMBERTOKEN NUMBERTOKEN,credit
+Direct Debit 518258 PromisePay Sipora,-51.77,transaction,transfer,direct debit NUMBERTOKEN promisepay sipora,credit
+ANZ INTERNET BANKING BPAY TAX OFFICE PAYMENT            {366388},-529,transaction,payment,anz internet banking bpay tax office payment NUMBERTOKEN,credit
+V8915 08/06 VOLTAGE EXPRESSO PERTH 74199748159,-6,transaction,payment, voltage expresso perth NUMBERTOKEN,credit
+DEBIT CARD PURCHASE NANDOS WILLETTON WILLETTON    AUS,-40.6,transaction,payment,debit card purchase nandos willetton willetton ,credit
+Transfer to other Bank NetBank Jensens,-530.47,transaction,transfer,transfer bank netbank jensen,credit
+DEPOSIT ONLINE 2728823 TFR Westpac eSaver,2000,transaction,transfer,deposit online NUMBERTOKEN transfer westpac esaver,debit
+INTNL TRANSACTION FEE,-5.83,credit-card,bank-fee,intnl transaction fee,credit
+debit card refund coles 6805 north sydney aus,0.15,transaction,refund,debit card refund cole north sydney ,debit
+IB TRANSFER 319528888 FROM 303-092-5084913 2:58PM,530,transaction,transfer, transfer NUMBERTOKEN NUMBERTOKEN 58pm,debit
+Utilities ELNAZ - Internal Transfer - Receipt 312647  0034783672,43.86,transaction,transfer,utility elnaz internal transfer RECEIPTTOKEN NUMBERTOKEN,debit
+LOAN INTEREST,-568.29,loan,bank-fee,loan interest,credit
+ANZ M-BANKING FUNDS TFER TRANSFER 366290  FROM       187081647,50,savings,transfer,anz banking fund transfer transfer NUMBERTOKEN NUMBERTOKEN,debit
+SPENDLESS SHOES PALMERSTON AUS,-14.99,credit-card,payment,spendless shoe palmerston ,credit
+BWS MAIN PLACE BROADBEACH AU,-148.6,credit-card,payment, main place broadbeach ,credit
+DEBIT CARD PURCHASE GLEN GARRY CASTLE HQPS REDFERN      AUS,-26,transaction,payment,debit card purchase glen garry castle hqps redfern ,credit
+WITHDRAWAL MOBILE 1304503 TFR Westpac Cho,-100,savings,cash-withdrawal,withdrawal mobile NUMBERTOKEN transfer westpac cho,credit
+Matthew Henderson Lotto and lunch - Osko Payment to 066164 10133848 - Receipt 776037 ,-40,transaction,transfer,matthew henderson lotto lunch osko payment NUMBERTOKEN NUMBERTOKEN RECEIPTTOKEN,credit
+INTEREST CHARGES - PUR CH,-35.23,credit-card,bank-fee,interest charge pur ,credit
+TFR from 667539S9.1 Web Tf Ref-Pools,13.1,credit-card,transfer,transfer NUMBERTOKEN web ref pool,debit
+ANZ M-BANKING FUNDS TFER TRANSFER 116571  TO  012315302324289,-200,savings,transfer,anz banking fund transfer transfer NUMBERTOKEN NUMBERTOKEN,credit
+ATM W/D SOUTHGATE INN-14:03,-70,transaction,cash-withdrawal,atm withdrawal southgate inn TIMETOKEN,credit
+INTERNET TRANSFER 996148010662 996148010662,70,transaction,transfer,internet transfer NUMBERTOKEN NUMBERTOKEN,debit
+ANNUAL FEE,-99,credit-card,bank-fee,annual fee,credit
+VISA DEBIT PURCHASE CARD 4020 WA COUNTRY CHEMIST GOOMALLING,-14.95,transaction,payment,visa debit purchase card country chemist goomalling,credit
+ST KILDA SAINTS LTD - Visa Purchase - Receipt 105198In MOORABBIN Date 08 Feb 2019 Card 462263xxxxxx5401,-31.5,transaction,payment, kilda saint ltd visa purchase RECEIPTTOKEN moorabbin DATETOKEN card NUMBERTOKEN,credit
+V8937 05/11 POST TORQUAY POST OFTO TORQUAY 74813848309,-8,transaction,payment, post torquay post ofto torquay NUMBERTOKEN,credit
+ANZ M-BANKING FUNDS TFER TRANSFER 542474  TO  016341191090706,-20,savings,transfer,anz banking fund transfer transfer NUMBERTOKEN NUMBERTOKEN,credit
+bonus cr interest $2.32 less r/w tax $5.92,0.15,savings,interest,bonus interest tax ,debit
+debit card refund spotlight 187 indooroopill aus card no. ~337698,0.15,transaction,refund,debit card refund spotlight indooroopill card NUMBERTOKEN,debit
+TFR from 51354S1 MOB,66,transaction,transfer,transfer NUMBERTOKEN mob,debit
+TFR from 648097S1 Web Tf,357,loan,transfer,transfer NUMBERTOKEN web ,debit
+VISA DEBIT PURCHASE CARD 7094 WW PETROL 3093 CAMBERWELL,-55.91,transaction,payment,visa debit purchase card petrol camberwell,credit
+WOOLWORTHS 1329 - Visa Purchase - Receipt 160699In PADDINGTON Date 19 Feb 2019 Card 462263xxxxxx3291,-54.68,transaction,payment,woolworth visa purchase RECEIPTTOKEN paddington DATETOKEN card NUMBERTOKEN,credit
+WITHDRAWAL ONLINE 1666884 PYMT Anthony Ju Anthony wages,-59.57,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment anthony anthony wage,credit
+GLOSS NAILS & BEAUTY ELANORA AU,-57,transaction,payment,gloss nail beauty elanora ,credit
+Transfer to xx7484 CommBank app,-100,savings,transfer,transfer commbank app,credit
+V7978 06/12 LOOKSMARTALTERATIONS BONDI JUNC 04103945441,-106.6,transaction,payment, looksmartalterations bondi junc NUMBERTOKEN,credit
+DEPOSIT VODAFONE SCHMIDT        Wages Luke,1035.54,transaction,transfer,deposit vodafone schmidt wage luke,debit
+TFR to 738067S30 MOB To-House Loan / House Bil Ref-home loan,-400,transaction,transfer,transfer NUMBERTOKEN mob house loan house bil ref home loan,credit
+DEPOSIT ONLINE 2240070 TFR Westpac Business Cas,32000,transaction,transfer,deposit online NUMBERTOKEN transfer westpac business ,debit
+CBA RemunerationCBA_REMUNIPE330P89,2237.4,transaction,transfer,cba remunerationcba remunipe330p89,debit
+INTERNET TRANSFER Linked Acc Trns UNDERHILL C,17,transaction,transfer,internet transfer linked acc trns underhill ,debit
+KINGS CROSS 18 D'HURST RD KINGS CROSS - Receipt 859546ATM owner fee of $0.00 charged by KINGS CROSS 18 D'HURST RD KINGS CROSSDate 24 Jan 2019 Time 5:12PM Card 462263xxxxxx8931,-20,transaction,cash-withdrawal,king cross hurst king cross RECEIPTTOKEN owner fee charged king cross hurst king crossDATETOKEN time 12pm card NUMBERTOKEN,credit
+V8169 24/07 RAINBOW FUEL CALOUNDRA 74564508206,-30,transaction,payment, rainbow fuel caloundra NUMBERTOKEN,credit
+VISA DEBIT PURCHASE CARD 0088 STANLEY ROADHOUSE STANLEY,-6,transaction,payment,visa debit purchase card stanley roadhouse stanley,credit
+Everyday round up - Everyday round up - Receipt 472400 OE Card xx9345 Transaction $3.50 Transfer to Savings Maximiser ACC 0044257116,-0.5,transaction,transfer,everyday round everyday round RECEIPTTOKEN card transaction transfer saving maximiser acc NUMBERTOKEN,credit
+bonus cr interest $4.41,0.15,savings,interest,bonus interest ,debit
+beem it beem.com.au eftpos refund receipt 7****9491xxxx2809,0.15,transaction,refund,beem beem com eftpos refund receipt 9491xxxx2809,debit
+ANZ M-BANKING FUNDS TFER TRANSFER 044307  FROM       493820372,500,transaction,transfer,anz banking fund transfer transfer NUMBERTOKEN NUMBERTOKEN,debit
+DEBIT CARD PURCHASE SENG & LIM CO PTY LTD ENGADINE     AUS Card No. ~192703,-11.48,transaction,payment,debit card purchase seng lim pty ltd engadine card NUMBERTOKEN,credit
+V1852 21/12 BIG W 0254 MACKAY 05182944035,-4,transaction,payment, big mackay NUMBERTOKEN,credit
+Transfer from xx3265 CommBank app dh,50,savings,transfer,transfer commbank app ,debit
+paypal *woolworthsl visa refund receipt 139519 in 5805897331 date 19 sep 8458 card 665025xxxxxx5205,0.15,transaction,refund,paypal woolworthsl visa refund RECEIPTTOKEN NUMBERTOKEN DATETOKEN card NUMBERTOKEN,debit
+"credit interest earned on this account to june 14, 6782 is $127.97",0.15,savings,interest,credit interest earned account june ,debit
+VISA DEBIT PURCHASE CARD 5044 UBER TRIP 4XRFM HELP.UBER SYDNEY,-10.11,transaction,payment,visa debit purchase card uber trip 4xrfm help uber sydney,credit
+CORNERSTONE & CO HAMPTON AUS,-10.01,credit-card,payment,cornerstone hampton ,credit
+WITHDRAWAL MOBILE 1809664 TFR Westpac Bus,-66,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN transfer westpac bus,credit
+V1609 22/10 PTA SMARTRIDER EAST PERTH 74940528295,-20,transaction,payment, pta smartrider east perth NUMBERTOKEN,credit
+squarespace inc. visa refund receipt 601693 in 5388610711 date 71 oct 5329 card 953193xxxxxx0394,0.15,transaction,refund,squarespace inc visa refund RECEIPTTOKEN NUMBERTOKEN DATETOKEN card NUMBERTOKEN,debit
+EFTPOS MCDONALDS BEELIAR     BEEBEELIAR      WA,-5.45,transaction,payment,eftpos mcdonalds beeliar beebeeliar ,credit
+DEBIT CARD PURCHASE COLES 0299 CLAREMONT    AUS,-20.18,transaction,payment,debit card purchase cole claremont ,credit
+BUNNINGS 418000 WAURN PONDS AUS,-279.09,credit-card,payment,bunnings NUMBERTOKEN waurn pond ,credit
+Internal Transfer - Receipt 100960 - To Orange Everyday  ,-25,savings,transfer,internal transfer RECEIPTTOKEN orange everyday,credit
+PAYMENT TO GROW SUPER FUND0 DM11381500149847M,-12.55,transaction,transfer,payment grow super fund dmNUMBERTOKENm,credit
+DEPOSIT WESTPAC SECURITI        S LRS 25166571-00,970.05,transaction,transfer,deposit westpac securiti NUMBERTOKEN ,debit
+DEPOSIT Tyro Settlement        20 Sep,6001.05,transaction,transfer,deposit tyro settlement sep,debit
+TFR from 667539S30.3 Web Tf,0.97,credit-card,transfer,transfer NUMBERTOKEN web ,debit
+Internal Transfer - Receipt 229293 From Savings Maximiser 82425315,50,transaction,transfer,internal transfer RECEIPTTOKEN saving maximiser NUMBERTOKEN,debit
+DEBIT CARD PURCHASE GROUNDED SPACE PTY. PARRAMATTA   AUS,-10.5,transaction,payment,debit card purchase grounded space pty parramatta ,credit
+return 96/15/66 direct debit 211929 r7k ellenbrook 705089842 value date: 72/60/6177,0.15,transaction,refund,return direct debit NUMBERTOKEN r7k ellenbrook NUMBERTOKEN value DATETOKEN,debit
+EFTPOS WOOLWORTHS      4307\KALAMUNDA WA     AU,-64.81,transaction,payment,eftpos woolworth kalamunda ,credit
+ANZ INTERNET BANKING BPAY INVOICE PAYMENT               {522039},-500,transaction,payment,anz internet banking bpay invoice payment NUMBERTOKEN,credit
+DEPARTMENT OF TRANSPOR - Visa Purchase - Receipt 178380In PERTH Date 11 Oct 2018 Card 462263xxxxxx9345,-207.55,transaction,payment,department transpor visa purchase RECEIPTTOKEN perth DATETOKEN card NUMBERTOKEN,credit
+V5441 19/03 MCDONALDS NEW NORFOLK NEW NORFOL 74564728079,-10.2,transaction,payment, mcdonalds new norfolk new norfol NUMBERTOKEN,credit
+DEPOSIT ONLINE 2681585 TFR Westpac Business One,450,transaction,transfer,deposit online NUMBERTOKEN transfer westpac business one,debit
+Wdl ATM ANZ BECKENHAM FUEL     BECKENHAM      AU,-350,transaction,cash-withdrawal,wdl atm anz beckenham fuel beckenham ,credit
+ANZ INTERNET BANKING FUNDS TFER TRANSFER 654849  TO  016358467641821,-50,savings,transfer,anz internet banking fund transfer transfer NUMBERTOKEN NUMBERTOKEN,credit
+interest paid on 3036778 term deposit 490573,0.15,savings,interest,interest paid NUMBERTOKEN term deposit NUMBERTOKEN,debit
+"credit interest earned on this account to june 30, 0434 is $9.89",0.15,savings,interest,credit interest earned account june ,debit
+TRANSFER FROM AMEX GR    43.30 8031898844,43.3,transaction,transfer,transfer amex DATETOKENNUMBERTOKEN,debit
+Transfer to other Bank CommBank app EspireIT 54958,-6329.45,transaction,transfer,transfer bank commbank app espireit 54958,credit
+Transfer to xx9297 CommBank app Top up,-130,transaction,transfer,transfer commbank app top,credit
+DEBIT CARD PURCHASE BIG W           0274 LOGANHOLMEQL AUS,-50,transaction,payment,debit card purchase big loganholmeql ,credit
+PAYMENT BY AUTHORITY TO Acorns Maint Fee 5c10a65c1884f5aa98,-1.25,transaction,transfer,payment authority acorn maint fee 5c10a65c1884f5aa98,credit
+debit card refund pelican stay au baulkham hil aus card no. ~809628,0.15,transaction,refund,debit card refund pelican stay baulkham hil card NUMBERTOKEN,debit
+KJF ENTERPRISES PTY      WYNYARD      AU Cash Out $50.00 Purchase $18.00,-68,transaction,payment,kjf enterprise pty wynyard cash purchase ,credit
+ATM W/D WESTPACROSEME-20:15,-100,transaction,cash-withdrawal,atm withdrawal westpacroseme TIMETOKEN,credit
+base cr interest $1.33,0.15,savings,interest,base interest ,debit
+Baa Baa Black Sheep ************ 9986 05133,-5.9,transaction,payment,baa baa black sheep 05133,credit
+WITHDRAWAL ONLINE 1545257 TFR Altitude Bl,-900,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN transfer altitude ,credit
+DEBIT CARD PURCHASE Q & T MINI-MART MASCOT       AUS,-3.8,transaction,payment,debit card purchase mini mart mascot ,credit
+WITHDRAWAL MOBILE 1231956 PYMT Charlotte,-25,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN payment charlotte,credit
+comp int 12588 2.7%,0.15,savings,interest,comp int ,debit
+ANZ M-BANKING FUNDS TFER TRANSFER 288196 ****8815,-49.06,transaction,transfer,anz banking fund transfer transfer NUMBERTOKEN 8815,credit
+LOAN INTEREST,-59.22,loan,bank-fee,loan interest,credit
+bonus cr interest $9.44,0.15,savings,interest,bonus interest ,debit
+DEBIT CARD PURCHASE COLES 0793 ENGADINE     AUS Card No. ~420478,-23.12,transaction,payment,debit card purchase cole engadine card NUMBERTOKEN,credit
+return paypal *photofinish 9412185394 au card xx3968 value date: 53/65/0075,0.15,transaction,refund,return paypal photofinish NUMBERTOKEN card value DATETOKEN,debit
+COPLICKS FOOD SERVI BAHRS SCRUB AU,-690.74,credit-card,payment,coplicks food servi bahrs scrub ,credit
+WITHDRAWAL ONLINE 1386790 BPAY BTC MARKET,-150,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN bpay btc market,credit
+BBL ATM 18th19:56NP-West Kempsey Hote DIR CHG OTH ATM,-2.5,transaction,cash-withdrawal,bbl atm 18thTIMETOKENnp west kempsey hote dir chg oth atm,credit
+DEPOSIT ONLINE 2766126 TFR Westpac eSaver,63,transaction,transfer,deposit online NUMBERTOKEN transfer westpac esaver,debit
+BWS             2833 MAIN PLACEQ AUS,-23,credit-card,payment, main placeq ,credit
+beem it beem.com.au eftpos refund receipt 77****4803xx8361,0.15,transaction,refund,beem beem com eftpos refund receipt 4803xx8361,debit
+UBER   *TRIP A64XS - Visa Purchase - Receipt 115491In HELP.UBER.CO Date 28 Jul 2018 Card 462263xxxxxx4572,-17.48,transaction,payment,uber trip a64xs visa purchase RECEIPTTOKEN help uber DATETOKEN card NUMBERTOKEN,credit
+Internal Transfer - Receipt 698904 - From Orange Everyday  ,60,savings,transfer,internal transfer RECEIPTTOKEN orange everyday,debit
+V8937 25/06 POST CENTRAL PARK MA MALVERN EA 74813848176,-3,transaction,payment, post central park malvern NUMBERTOKEN,credit
+OPTUS PREPAID MELBOURN MELBOURNE AU AUS Card xx0210 Value Date: 13/12/2018,-10,transaction,payment,optus prepaid melbourn melbourne card value DATETOKEN,credit
+interest paid includes bonus of $68.79,0.15,savings,interest,interest paid includes bonus ,debit
+V8169 19/11 REALESTATE PAYMENT -RR BALMAIN 74564458323,-1,transaction,payment, realestate payment balmain NUMBERTOKEN,credit
+TRANSFER FROM SQUARE AU PTY LT,181.38,transaction,transfer,transfer square pty ,debit
+NIGHTOWL QLD PTY LTD UPPER MOUNT AU,-5.5,credit-card,payment,nightowl qld pty ltd upper mount ,credit
+Everyday round up - Everyday round up - Receipt 350569 OE Card xx7056 Transaction $23.50 Transfer to Savings Maximiser ACC 0088915369,-0.5,transaction,transfer,everyday round everyday round RECEIPTTOKEN card transaction transfer saving maximiser acc NUMBERTOKEN,credit
+Deposit from linked bank account - Receipt 48232 - From  066155 10373641,20,savings,transfer,deposit linked bank account RECEIPTTOKEN NUMBERTOKEN NUMBERTOKEN,debit
+AFTERPAY PTY LTD Visa Purchase - Receipt 126901 In MELBOURNE Date 27 Aug 2018 Card xxxxxxxxxxxx9344,-34.79,transaction,payment,afterpay pty ltd visa purchase RECEIPTTOKEN melbourne DATETOKEN card xxxxxxxxxxxx9344,credit
+ANZ INTERNET BANKING BPAY HSBC CARDS                    {974827},-100,transaction,payment,anz internet banking bpay hsbc card NUMBERTOKEN,credit
+DEPOSIT ONLINE 2178058 TFR Westpac Choice,500,transaction,transfer,deposit online NUMBERTOKEN transfer westpac choice,debit
+Transfer from xx9734 CommBank app,30,transaction,transfer,transfer commbank app,debit
+Internal Transfer - Internal Transfer - Receipt 341135 Savings Maximiser 0045536685,200,transaction,transfer,internal transfer internal transfer RECEIPTTOKEN saving maximiser NUMBERTOKEN,debit
+VISA DEBIT PURCHASE CARD 3008 SUSHI TRAIN AUST PL SOUTHPORT,-35.5,transaction,payment,visa debit purchase card sushi train aust southport,credit
+BCF JOONDALUP EDGEWATER WA AUS Card xx0194 Value Date: 01/11/2018,-43.95,transaction,payment,bcf joondalup edgewater card value DATETOKEN,credit
+INTEREST CHARGED ON CASH,-18.58,credit-card,bank-fee,interest charged cash,credit
+Stradbroke Hotel Point Lookout QL AUS Card xx5230 Value Date: 19/02/2019,-4.5,transaction,payment,stradbroke hotel point lookout card value DATETOKEN,credit
+comp int 89909 5.6%,0.15,savings,interest,comp int ,debit
+LANZHOU BEEF NOODLE BA SOUTH YARRA  AUS Tap and Pay xx6102 Value Date: 08/03/2019,-12.95,transaction,payment,lanzhou beef noodle south yarra tap pay value DATETOKEN,credit
+NAB INTNL TRAN FEE - (MC),-76.33,credit-card,bank-fee,nab intnl tran fee ,credit
+STRIKE ALEXANDRIA 10 - Visa Purchase - Receipt 144880In ALEXANDRIA Date 22 Dec 2018 Card 462263xxxxxx9147,-21.3,transaction,payment,strike alexandria visa purchase RECEIPTTOKEN alexandria DATETOKEN card NUMBERTOKEN,credit
+Transfer to other Bank NetBank MACCHINA CATERING,-374,transaction,transfer,transfer bank netbank macchina catering,credit
+POS W/D MATILDA URALL-20:57,-52.1,transaction,payment, withdrawal matilda urall TIMETOKEN,credit
+PLEASANT FOODS TENNYSON AU,-570.05,credit-card,payment,pleasant food tennyson ,credit
+DEPOSIT,244.6,transaction,transfer,deposit,debit
+V9105 25/12 COLES EXPRESS 1772 NAMBOUR 74363968359,-33.25,transaction,payment, cole express nambour NUMBERTOKEN,credit
+EFTPOS OCEAN SAFARI          CAPE TRIBULATQLDAU,-20.7,transaction,payment,eftpos ocean safari cape tribulatqldau,credit
+bonus cr interest $3.41,0.15,savings,interest,bonus interest ,debit
+TFR from 639321S3 MOB,68.35,transaction,transfer,transfer NUMBERTOKEN mob,debit
+interest cr $1.63,0.15,savings,interest,interest ,debit
+bonus interest credit receipt 194918 ,0.15,savings,interest,bonus interest credit RECEIPTTOKEN,debit
+TFR from 667539S1 Web Tf Ref-Campbel & Freebairn,30.3,credit-card,transfer,transfer NUMBERTOKEN web ref campbel freebairn,debit
+HEY YOU SYDNEY  AUS Card xx1228 Value Date: 05/03/2019,-4.59,transaction,payment,hey sydney card value DATETOKEN,credit
+POS W/D STRANDZ ON VI-13:35,-190,transaction,payment, withdrawal strandz TIMETOKEN,credit
+"credit interest earned on this account to june 13, 6823 is $1.33",0.15,savings,interest,credit interest earned account june ,debit
+HAIRY LITTLE SISTA Visa Purchase - Receipt 163963 In MELBOURNE Date 10 Sep 2018 Card xxxxxxxxxxxx0985,-3.8,transaction,payment,hairy little sista visa purchase RECEIPTTOKEN melbourne DATETOKEN card xxxxxxxxxxxx0985,credit
+WITHDRAWAL MOBILE 1172241 PYMT FUNK CIDER UFM RENT,-2100,transaction,cash-withdrawal,withdrawal mobile NUMBERTOKEN payment funk cider ufm rent,credit
+WITHDRAWAL ONLINE 1743274 PYMT Reece Miss,-423.04,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment reece miss,credit
+bonus cr interest $9.85 less r/w tax $1.49,0.15,savings,interest,bonus interest tax ,debit
+VISA DEBIT PURCHASE CARD 5097 MINUTE SOLUTIONS. TARNEIT,-14.95,transaction,payment,visa debit purchase card minute solution tarneit,credit
+Sydney Park Hotel - Visa Purchase - Receipt 192142In Newtown Date 12 Mar 2019 Card 462263xxxxxx4572,-21.8,transaction,payment,sydney park hotel visa purchase RECEIPTTOKEN newtown DATETOKEN card NUMBERTOKEN,credit
+PAYMENT BY AUTHORITY TO Elders Bathurst 195711 Rent,-35,transaction,transfer,payment authority elder bathurst NUMBERTOKEN rent,credit
+FORCE 23 PTY LTD - Visa Purchase - Receipt 130809In OSBORNE PARK Date 19 Sep 2017 Card 462263xxxxxx7751,-5.2,transaction,payment,force pty ltd visa purchase RECEIPTTOKEN osborne park DATETOKEN card NUMBERTOKEN,credit
+V6155 10/02 NOISY RITUAL PTY LTD BRUNSWICK 74940529041,-12,transaction,payment, noisy ritual pty ltd brunswick NUMBERTOKEN,credit
+VISA DEBIT PURCHASE CARD 1076 BAKERS DELIGHTMULLALOO MULLALOO,-24,transaction,payment,visa debit purchase card baker delightmullaloo mullaloo,credit
+Direct Credit 015884 FAO FAMILIES 240B7114555058886S,77.01,transaction,transfer,direct credit NUMBERTOKEN fao family 240bNUMBERTOKENs,debit
+Direct Credit 421520 AUSTRALIAN CENTR INV 5643,225.5,transaction,transfer,direct credit NUMBERTOKEN australian centr inv 5643,debit
+Transfer to xx2305 CommBank app,-5,transaction,transfer,transfer commbank app,credit
+credit interest redirection redirected from 418672 55138641,0.15,savings,interest,credit interest redirection redirected NUMBERTOKEN NUMBERTOKEN,debit
+TRANSFER FROM IVY REAL ESTATE  20MAY2019 IVY RE,5000,transaction,transfer,transfer ivy real estate 20may ivy,debit
+POS W/D WOOLWORTHS 11-15:56,-22.8,transaction,payment, withdrawal woolworth TIMETOKEN,credit
+base cr interest $7.51,0.15,savings,interest,base interest ,debit
+ERSKO PTY LIMITED - Visa Purchase - Receipt 125729In ERSKINEVILLE Date 27 Oct 2018 Card 462263xxxxxx4572,-17,transaction,payment,ersko pty limited visa purchase RECEIPTTOKEN erskineville DATETOKEN card NUMBERTOKEN,credit
+DECJUBA - Visa Purchase - Receipt 192604In MARIBYRNONG Date 21 Feb 2019 Card 462263xxxxxx9702,-98.95,transaction,payment,decjuba visa purchase RECEIPTTOKEN maribyrnong DATETOKEN card NUMBERTOKEN,credit
+WOOLWORTHS 3100 - Visa Purchase - Receipt 121948In CARRUM DOWNS Date 31 Mar 2018 Card 462263xxxxxx7111,-78.3,transaction,payment,woolworth visa purchase RECEIPTTOKEN carrum DATETOKEN card NUMBERTOKEN,credit
+POS W/D BUNDARRA GENE-13:54,-24.95,transaction,payment, withdrawal bundarra gene TIMETOKEN,credit
+PAYMENT BY AUTHORITY TO BRASSERIE BREAD BRASSERIE BREAD  0,-194.45,transaction,transfer,payment authority brasserie bread brasserie bread ,credit
+APPLE ITUNES STORE SYDNEY AU AUS Card xx0672 Value Date: 02/11/2018,-1.49,transaction,payment,apple itunes store sydney card value DATETOKEN,credit
+MULTIPLE SCLEROSIS RES NORTH SYDNE AU,-409.15,credit-card,payment,multiple sclerosis north sydne ,credit
+TRANSFER FROM CITIBANK EUROPE  WORLDPAY AP LTD,7191.99,transaction,transfer,transfer citibank europe worldpay ltd,debit
+interest paid includes bonus of $71.86,0.15,savings,interest,interest paid includes bonus ,debit
+Debit Card Purchase Pnt Cook Lic Supmkt Point Cook Aus,-5.69,transaction,payment,debit card purchase pnt cook lic supmkt point cook ,credit
+VISA DEBIT PURCHASE CARD 3024 MCDONALDS PARK RIDGE PARK RIDGE,-7.8,transaction,payment,visa debit purchase card mcdonalds park ridge park ridge,credit
+Elnaz Rafiee NZ Hotels - Transfer to 923100 0034783672 - Receipt 487101,-233.75,transaction,transfer,elnaz rafiee hotel transfer NUMBERTOKEN NUMBERTOKEN RECEIPTTOKEN,credit
+ANZ M-BANKING PAYMENT TRANSFER 940709 TO HADI,-700,transaction,transfer,anz banking payment transfer NUMBERTOKEN hadi,credit
+Transfer from xx9658 CommBank app,10,transaction,transfer,transfer commbank app,debit
+Tf TO 722744 100060132 Web To-Ann John Ref-Tan Mum,-100,transaction,transfer, NUMBERTOKEN NUMBERTOKEN web ann john ref tan mum,credit
+"credit interest earned on this account to june 76, 6041 is $754.40",0.15,savings,interest,credit interest earned account june ,debit
+merch fee refund 5101685803,0.15,transaction,refund,merch fee refund NUMBERTOKEN,debit
+ATM DEPOSIT HANDYBANK LOGAN CENTRAL 13622127 18/04/18,200,transaction,transfer,atm deposit handybank logan central NUMBERTOKEN ,debit
+interest paid includes bonus of $87.72,0.15,savings,interest,interest paid includes bonus ,debit
+INTERNET TRANSFER Word Template FORFAR J,-25,savings,transfer,internet transfer word template forfar ,credit
+credit interest redirection redirected from 213044 16655923,0.15,savings,interest,credit interest redirection redirected NUMBERTOKEN NUMBERTOKEN,debit
+DEBIT CARD PURCHASE NETFLIX COM MELBOURNE    AUS,-9.99,transaction,payment,debit card purchase netflix com melbourne ,credit
+WOOLWORTHS 1055 - Visa Purchase - Receipt 199535In POTTS POINT Date 19 Oct 2018 Card 462263xxxxxx8931,-17.05,transaction,payment,woolworth visa purchase RECEIPTTOKEN potts point DATETOKEN card NUMBERTOKEN,credit
+WITHDRAWAL ONLINE 1527463 PYMT Matthew Gi WSB Kym,-20,transaction,cash-withdrawal,withdrawal online NUMBERTOKEN payment matthew wsb kym,credit
+JETSTAR AIRWAYS PTE M MASCOT AU,-1400.91,credit-card,payment,jetstar airway pte mascot ,credit
+TFR to 751302S17.1 MOB To-B A Johnston,-40,savings,transfer,transfer NUMBERTOKEN mob johnston,credit
+TFR to 623819S1 Web Tf To-B L PAUL Ref-Eggs,-8,transaction,transfer,transfer NUMBERTOKEN web paul ref egg,credit
+ANZ M-BANKING PAYMENT TRANSFER 703858 TO HOLIDAY FUND,-100,savings,transfer,anz banking payment transfer NUMBERTOKEN holiday fund,credit
